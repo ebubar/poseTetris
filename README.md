@@ -9,6 +9,5 @@ My recommendation for the lowest barrier to entry to play with this code is the 
 5) Open up a Jupyter notebook.
 6) Navigate to the location where you unzipped this repo and open the folder for the game you'd like to run - tetris or pacman.
 7) Choose whichever Jupyter notebook you'd like to run the game for (tetrisv2.ipynb or pacman.ipynb at present).
-8) I like to think the instruction in the respective notebooks are pretty self-explanatory. They are setup so they
-   will install the necessary packages on runtime.
+8) Watch the videos for the respective games to see how to play.
 9) Enjoy!
